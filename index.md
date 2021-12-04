@@ -4,7 +4,7 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Ruey-Beei Wu
+# Hi, I'm Ruey-Beei Huang
 
 <div class="columns" markdown="1">
 
